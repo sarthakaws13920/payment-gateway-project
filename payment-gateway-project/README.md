@@ -67,7 +67,7 @@ Want to help? Follow these steps:
 4. Push and open a Pull Request
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
 
 Author
 Sarthak Singh 
