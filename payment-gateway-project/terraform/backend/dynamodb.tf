@@ -1,4 +1,5 @@
-# DynamoDB table setup
+# Purpose: DynamoDB table setup
+# Maintainer: Sarthak
 resource "aws_dynamodb_table" "transactions" {
     name = "payment-transaction"
     billing_mode = "PAY_PER_REQUEST"
