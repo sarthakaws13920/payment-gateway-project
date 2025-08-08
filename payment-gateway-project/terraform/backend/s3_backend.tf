@@ -1,1 +1,1 @@
-#This is for hosting your static website files
+#This is for Storing DB logs
